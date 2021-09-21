@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"runtime"
 
-	"github.com/paypermint/appkit"
-	"github.com/paypermint/bridge-app-svc/util"
+	"github.com/PayAbbhiRS/appkit"
+	"github.com/PayAbbhiRS/bridge-app-svc/util"
 )
 
 //RecoveryInterceptor defines Recovery structure

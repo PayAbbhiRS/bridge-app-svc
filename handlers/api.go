@@ -3,8 +3,8 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/paypermint/bridge-app-svc/helpers"
-	"github.com/paypermint/bridge-app-svc/util"
+	"github.com/PayAbbhiRS/bridge-app-svc/helpers"
+	"github.com/PayAbbhiRS/bridge-app-svc/util"
 )
 
 //GetAPIList renders the list of APIs provided

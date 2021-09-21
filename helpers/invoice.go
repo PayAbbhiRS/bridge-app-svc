@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/paypermint/appkit"
-	"github.com/paypermint/bridge-app-svc/util"
+	"github.com/PayAbbhiRS/appkit"
+	"github.com/PayAbbhiRS/bridge-app-svc/util"
 )
 
 //GetInvoicesFromSapRequest represents struct to get invoices from SAP system

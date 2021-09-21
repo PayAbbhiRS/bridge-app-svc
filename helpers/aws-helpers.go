@@ -9,7 +9,7 @@ import (
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/s3"
-	"github.com/paypermint/appkit"
+	"github.com/PayAbbhiRS/appkit"
 )
 
 // GetS3File gets the file in given path

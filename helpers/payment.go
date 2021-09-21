@@ -10,8 +10,8 @@ import (
 	"reflect"
 	"strconv"
 
-	"github.com/paypermint/bridge-app-svc/models"
-	"github.com/paypermint/bridge-app-svc/util"
+	"github.com/PayAbbhiRS/bridge-app-svc/models"
+	"github.com/PayAbbhiRS/bridge-app-svc/util"
 )
 
 //PostPaymentUpdateRequest represents struct to update payments at SAP end

@@ -3,10 +3,10 @@ package main
 import (
 	"flag"
 
-	"github.com/paypermint/appkit"
-	"github.com/paypermint/bridge-app-svc/handlers"
-	"github.com/paypermint/bridge-app-svc/helpers"
-	"github.com/paypermint/bridge-app-svc/interceptors"
+	"github.com/PayAbbhiRS/appkit"
+	"github.com/PayAbbhiRS/bridge-app-svc/handlers"
+	"github.com/PayAbbhiRS/bridge-app-svc/helpers"
+	"github.com/PayAbbhiRS/bridge-app-svc/interceptors"
 	"github.com/unrolled/render"
 	"github.com/unrolled/secure"
 	"github.com/urfave/negroni"

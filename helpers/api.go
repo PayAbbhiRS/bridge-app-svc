@@ -3,7 +3,7 @@ package helpers
 import (
 	"fmt"
 
-	"github.com/paypermint/bridge-app-svc/models"
+	"github.com/PayAbbhiRS/bridge-app-svc/models"
 )
 
 const (

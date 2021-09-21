@@ -13,7 +13,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/paypermint/bridge-app-svc/util"
+	"github.com/PayAbbhiRS/bridge-app-svc/util"
 )
 
 const (

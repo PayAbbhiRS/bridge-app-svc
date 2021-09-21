@@ -1,6 +1,6 @@
 package handlers
 
-import "github.com/paypermint/bridge-app-svc/models"
+import "github.com/PayAbbhiRS/bridge-app-svc/models"
 
 var routes []models.Route
 

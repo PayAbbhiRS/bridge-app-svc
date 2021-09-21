@@ -5,9 +5,9 @@ import (
 
 	"html/template"
 
-	"github.com/paypermint/bridge-app-svc/models"
+	"github.com/PayAbbhiRS/bridge-app-svc/models"
 
-	"github.com/paypermint/appkit"
+	"github.com/PayAbbhiRS/appkit"
 )
 
 const (

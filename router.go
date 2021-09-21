@@ -4,8 +4,8 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/paypermint/bridge-app-svc/handlers"
-	"github.com/paypermint/bridge-app-svc/models"
+	"github.com/PayAbbhiRS/bridge-app-svc/handlers"
+	"github.com/PayAbbhiRS/bridge-app-svc/models"
 )
 
 func setRouter() *mux.Router {
